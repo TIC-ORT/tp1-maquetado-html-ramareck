@@ -1,0 +1,15 @@
+.header{
+    background-color: orange;
+    height: 40vh;
+    width: 100vw;
+    
+}
+.cuadradouno{
+background-color: rgb(121, 86, 22);
+width: 100px;
+height: 100px;
+justify-content: center;
+align-items: center;
+display: flex;
+margin-top: 50px;
+}
